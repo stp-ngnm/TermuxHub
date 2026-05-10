@@ -2067,7 +2067,7 @@
     {
       "id": "0173",
       "name": "illeagal-sounds",
-      "description": "this is a automated offloader made for yt-dlp a youtube downleader and converter",
+      "description": "An automated downloader built around yt-dlp for YouTube downloading and conversion.",
       "category": "Utilities & Dev",
       "install": "pkg install ffmpeg python-pip\npip install yt-dlp",
       "thumbnail": "",
